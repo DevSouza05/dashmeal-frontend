@@ -2,7 +2,7 @@
     background-image: url('../assets/cardapio-de-hamburgueria.jpg');
     background-size: cover;
     background-position: center;
-    height: 80vh; 
+    height: 100vh; 
     display: flex;
     justify-content: center;
     align-items: center;
